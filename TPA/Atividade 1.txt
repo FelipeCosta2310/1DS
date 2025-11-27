@@ -1,0 +1,20 @@
+Tomar banho
+
+1- Entrar no banheiro
+2- Tirar a roupa
+3- Entrar debaixo do chuveiro
+4- Ligar o chuveiro
+5- Pegar o sabonete 
+6- Se ensaboar
+7- Se enxugar
+8- Passar o shampoo no cabelo
+9- esfregar o cabelo
+10- tirar o shampoo
+11- Passar condicionador no cabelo
+12- massagear o cabelo
+13- enxaguar o condicionador
+14- desligar o chuveiro
+15- sair do chuveiro
+16- se enxugar
+17- sair do banheiro de toalha
+FIM

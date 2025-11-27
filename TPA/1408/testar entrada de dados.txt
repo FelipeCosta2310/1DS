@@ -1,0 +1,1 @@
+Desenvolva um algoritmo que receba 6 números aleatórios. O algoritmo deverá verificar a cada entrada de dados se o número está no intervalo de 1 a 60.
