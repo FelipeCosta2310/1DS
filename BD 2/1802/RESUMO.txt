@@ -1,0 +1,16 @@
+Banco de dados -> armazena um conjunto de dados de forma organizada
+
+dados -> Dados são observações documentadas ou resultados da medição. A disponibilidade dos dados oferece oportunidades para a obtenção de informações. Os dados podem ser obtidos pela percepção através dos sentidos (por exemplo observação) ou pela execução de um processo de medição.
+
+informações -> As informações são os dados devidamente tratados e analisados, produzindo conhecimento relevante. Ao contrário dos elementos brutos do tópico anterior, elas têm significados práticos e podem ser utilizadas para reforçar o processo de tomada de decisão.
+
+SGBD -> sistema gerenciador de banco de dados
+exemplo -> Oracle, MySql
+
+usuário comum -> acesso restrito
+  Visão superficial
+administrador de BD -> gerencia do BD
+  Visão do servidor
+banco de dados relacional -> modelagem com a representação em forma de entidades, atributos e cardinalidades.
+MER -> modelo entidade relacional
+ferramenta CASE -> é uma classificação que abrange todas as ferramentas baseadas em computadores que auxiliam atividades de engenharia de software: BRmodelo
