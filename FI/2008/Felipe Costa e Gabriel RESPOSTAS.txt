@@ -1,0 +1,17 @@
+1- mkdir projetos, cd projetos, mkdir fronted, mkdir bancked
+2- cd bancked
+3- touch api.txt
+4- echo "Servidor Iniciado com Sucesso" > api.txt
+5- cat api.txt
+6- cd .., ls -ls
+7- mv~/projetos/backend/api.txt/projetos/fronted
+8- cd~/projetos/fronted, touch index.html
+9- grep "Linha" index.html
+10- ls -lt
+11- cd projetos, mkdir config.local
+12- cp index.html > config
+13- find -type f
+14- wc -1 index.html
+15- head -c 5 index.html
+16- rm api.txt
+17- rmdir bancked

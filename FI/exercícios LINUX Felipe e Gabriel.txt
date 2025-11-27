@@ -1,0 +1,10 @@
+1- pwd
+2- date
+3- sudo date -s "2025-06-03 19:00:00"
+4- cd /
+5- ls -al
+6- touch teste (Permissão negada)
+7- pwd
+8- clear
+9- touch teste (o arquivo já existe por termos criado no exercício 6)
+10- ls

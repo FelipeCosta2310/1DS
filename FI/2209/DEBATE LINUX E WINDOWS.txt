@@ -1,0 +1,50 @@
+
+
+
+
+Linux
+
+Gratuito e aberto**: Usuários podem usar, modificar e distribuir livremente o sistema.
+Seguro e estável**: Menos vulnerável a vírus e muito confiável para uso prolongado.
+Leve**: Funciona bem até em computadores antigos ou com poucos recursos.
+Personalizável**: Interface e funções podem ser moldadas conforme o gosto do usuário.
+Curva de aprendizado**: Exige mais conhecimento técnico, especialmente no terminal.
+Pouca compatibilidade com alguns programas**: Softwares populares, como Photoshop, podem não rodar nativamente.
+Drivers de hardware**: Equipamentos muito novos podem ter suporte limitado inicialmente.
+
+---
+
+
+---
+Perguntas para questionar o Windows:
+
+Por que o sistema ainda é tão vulnerável a vírus?
+
+Por que as atualizações são tão invasivas?
+
+O Windows precisa ser tão pesado?
+
+Por que o sistema não é gratuito como o Linux?
+
+A Microsoft respeita a privacidade do usuário?
+=============================================================================================
+Se o Windows é tão bom, por que ele ainda precisa de antivírus?
+
+Por que o sistema me obriga a reiniciar no meio do trabalho para atualizar?
+
+Por que um sistema pago me espiona mais do que um gratuito como o Linux?
+
+Você acha justo pagar por um sistema que vem cheio de bugs e lentidão?
+
+Quantas vezes seu Windows travou ou deu tela azul este ano?
+
+Se o Windows é tão eficiente, por que servidores de grandes empresas usam Linux?
+
+Por que um sistema tão popular ainda engasga em PCs com menos de 8 GB de RAM?
+
+Por que até hoje o Windows não te dá controle total sobre seu próprio sistema?
+
+Você já tentou desinstalar aplicativos nativos do Windows? Conseguiu?
+
+Se o Windows é melhor, por que a maioria dos hackers e especialistas usam Linux?
+
